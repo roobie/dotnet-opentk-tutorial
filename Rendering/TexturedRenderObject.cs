@@ -5,6 +5,8 @@ using System.Linq;
 using OpenTK.Graphics.OpenGL4;
 using SixLabors.ImageSharp;
 
+using SixLabors.ImageSharp.PixelFormats;
+
 namespace dotnet_opentk_tutorial.Rendering
 {
     public class TexturedRenderObject : AbstractRenderableBase
